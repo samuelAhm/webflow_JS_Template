@@ -52,7 +52,10 @@
     "typescript": "^5.1.3"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.39.2"
+    "@finsweet/ts-utils": "^0.39.2",
+    "@selectize/selectize": "^0.15.2",
+    "flatpickr": "^4.6.13",
+    "swiper": "^11.2.4"
   },
   "engines": {
     "pnpm": ">=8"
